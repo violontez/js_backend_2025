@@ -1,0 +1,24 @@
+{
+  "name": "js_backend_2025",
+  "version": "1.0.0",
+  "description": "back-end part",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/violontez/js_backend_2025.git"
+  },
+  "author": "tima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/violontez/js_backend_2025/issues"
+  },
+  "homepage": "https://github.com/violontez/js_backend_2025#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongodb": "^6.17.0"
+  }
+}
